@@ -1,0 +1,8 @@
+public class LongStringParser{
+
+    public static void main(String[] args){
+        System.out.println("Hello, Android!\n");
+        System.out.println("123213213213123213132131312312313212312321321321321231313123213432423423423423423423423422222222222222222222222222222222222222222222222222\n");
+    }
+
+}
